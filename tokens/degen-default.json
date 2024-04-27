@@ -1,0 +1,73 @@
+{
+  "name": "BetterX Degenchain Default",
+  "timestamp": "2024-04-27T06:55:04.689Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 50
+  },
+  "logoURI": "https://betterx.pro/logo.png",
+  "keywords": [
+    "betterX",
+    "default",
+    "degenchain"
+  ],
+  "tokens": [
+    {
+      "chainId": 666666666,
+      "address": "0xeb1c32ea4e392346795aed3607f37646e2a9c13f",
+      "name": "All Time High",
+      "symbol": "ATH",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/degenchain/0xeb1c32ea4e392346795aed3607f37646e2a9c13f.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xeb54dacb4c2ccb64f8074eceea33b5ebb38e5387",
+      "name": "Wrapped DEGEN",
+      "symbol": "WDEGEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36809/thumb/wdegen.jpeg?1712546442"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x0c3544b0b78a0eea3bb4ca3774b72055a66e4ee5",
+      "name": "DegenSwap",
+      "symbol": "DSWAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36801/thumb/degenswap.jpeg?1712469536"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x54f667db585b7b10347429c72c36c8b59ab441cb",
+      "name": "Good Old Fashioned Un Registered Securi",
+      "symbol": "GOFURS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36806/thumb/gofurs.jpeg?1712473928"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0xcf79da9c663d446c6e0da7e3b18ce77ff26da26a",
+      "name": "Degen Cet",
+      "symbol": "CET",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36681/thumb/IMG_20240331_222049_595_%281%29.jpg?1712064251"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x7d4f462895ad2a6856cb6e94055b841c3ca55987",
+      "name": "Frogswap",
+      "symbol": "FROG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36650/thumb/frog_logo.png?1712040581"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x4c9436d7aac04a40aca30ab101107081223d6e92",
+      "name": "DINU",
+      "symbol": "DINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36730/thumb/dinu_200x200.png?1712159206"
+    }
+  ]
+}
